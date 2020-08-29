@@ -100,6 +100,3 @@ Uname:
   type: unicode
   doc: The architecture of this binary. (Note this can be different from the machine
     architecture in the case of a 32 bit binary running on a 64 bit system)
-- name: pep425tag
-  type: unicode
-  doc: The unique signature of this python system (as defined by PEP425 tags).
